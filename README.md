@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learning advanced Web Development techniques, fast Frontend and secure Backend**
 
-- 💬 Ask me about **Web development using technologies like HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, React Native, MongoDB and MySQL **
+- 💬 Ask me about **Web development using technologies like HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, React Native, MongoDB and MySQL**
 
 - 📫 How to reach me **akashmishra15703@gmail.com**
 
