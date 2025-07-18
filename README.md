@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Mishra</h1>
-<h3 align="center">I am a Computer Science and Engineering Undergrad at JSSATE Noida.<br> 💻 I’m a Fullstack Web Developer and Tech Enthusiast</h3>
+<h3 align="center">I am a Computer Science and Engineering .<br> 💻 I’m a Fullstack Web Developer and Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-kumar-2&label=Profile%20views&color=0e75b6&style=flat" alt="akash-kumar-2" /> </p>
 
-- 🔭 I’m currently working on **College Community Server (A project focused on building robust backend solutions).**
-
-- 🌱 I’m currently learning **Backend development with NextJS, Typescript & React Native**
-
-- 👯 I’m looking to collaborate on **Hackathons and Coding Competitions.**
 
 - 🤝 I’m looking for help with **Learning advanced Web Development techniques, fast Frontend and secure Backend**
 
